@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1794934352647,
+    "description" : "Pipeline NiFi : CSV, validation, MySQL et MinIO",
+    "identifier" : "TP2NiFiProduction",
+    "lastModifiedTimestamp" : 1794934352647,
+    "name" : "TP2_NiFi_Production",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
